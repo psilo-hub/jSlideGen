@@ -1,2 +1,3 @@
 #date	version	what's new	release url
 2024-10-10	v0.01	the project moved to github	 
+2024-10-11	v0.01b	minor UI bugfix	 
