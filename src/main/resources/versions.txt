@@ -1,4 +1,4 @@
 #date	version	what's new	release url
 2024-10-10	v0.01	the project moved to github	 
 2024-10-11	v0.01b	minor UI bugfix	 
-2024-10-16	v0.01c	translations (DE,CN)	 
+2024-10-16	v0.01c	translations (DE,CN)	https://github.com/psilo-hub/jSlideGen/releases/tag/v0.01c
